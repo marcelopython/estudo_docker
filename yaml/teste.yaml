@@ -1,0 +1,40 @@
+nome: "Marcelo"
+idade: 25
+
+# Este objeto descreve o nosso projeto
+object:
+  versao: 2
+  arquivo: "teste.txt"
+
+versao: 2
+versao_completa: 2.14
+
+string_sem_aspas: digite um texto aqui
+string_com_aspas: "digite um texto aqui"
+
+nulo: ~
+nulo2: null
+
+verdadeiro: True
+verdadeiro2: On
+
+falso: False
+falso2: Off
+
+lista: [1, 2, 3, 4]
+
+lista2: 
+  - 'teste'
+  - 10
+  - True
+  - false
+
+obj: {a: 1, b: 2, c: 3}
+
+objecto:
+  versao: 2
+  obj_interno: 
+    a: 1
+    b: 2
+    c: 3
+ 
